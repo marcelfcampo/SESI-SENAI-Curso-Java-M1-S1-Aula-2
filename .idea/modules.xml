@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1-Array/1-Array.iml" filepath="$PROJECT_DIR$/1-Array/1-Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-ArrayList/2-ArrayList.iml" filepath="$PROJECT_DIR$/2-ArrayList/2-ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atributos-1/Atributos-1.iml" filepath="$PROJECT_DIR$/Atributos-1/Atributos-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes-Atributos-Metodos/Classes-Atributos-Metodos.iml" filepath="$PROJECT_DIR$/Classes-Atributos-Metodos/Classes-Atributos-Metodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maioridade_Conta-Bancaria-4/Maioridade_Conta-Bancaria-4.iml" filepath="$PROJECT_DIR$/Maioridade_Conta-Bancaria-4/Maioridade_Conta-Bancaria-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SESI-SENAI-Curso-Java-M1-S1-Aula-2.iml" filepath="$PROJECT_DIR$/.idea/SESI-SENAI-Curso-Java-M1-S1-Aula-2.iml" />
+    </modules>
+  </component>
+</project>
